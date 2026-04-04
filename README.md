@@ -5,27 +5,27 @@
 First help for setup, tweaks and ISO images
 
 Our mission is to show that it is possible to configure Windows without using third-party programs, just learn a few simple tweakers.
-<br>This way you can forget about extraneous cleaning tools with closed source code. All our scripts are written in the standard "PS1" language and you can always check them or change them to suit your needs. 
+<br>This way you can forget about extraneous cleaning tools with closed source code. All our scripts are written in the standard "PS1" language and you can always check them or change them to suit your needs.
 <br>
 No files or programs, just console and commands!
 
-> MORE PROJECTS: https://github.com/awesome-windows11
+> MORE PROJECTS: <https://github.com/awesome-windows11>
 > <br>
-> Site: https://windows12.glitch.me
+> Site: <https://windows12.glitch.me>
 > <br>
-> VK: https://vk.com/flighthub
+> VK: <https://vk.com/flighthub>
 > <br>
-> Telegram: https://t.me/windows11_chat
+> Telegram: <https://t.me/windows11_chat>
 
 <h3 align="center"><img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Red%20exclamation%20mark/3D/red_exclamation_mark_3d.png"> Important</h3>
 
-<img width=20px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> NT/SYSTEM console: https://github.com/gerardog/gsudo
+<img width=20px src="https://community.chocolatey.org/content/packageimages/microsoft-windows-terminal.0.2.1831.001.png"> NT/SYSTEM console: <https://github.com/gerardog/gsudo>
 <br>
-<img width=20px src="https://store-images.s-microsoft.com/image/apps.33061.13510798887475206.34a5b1cc-aab2-4ec5-ac80-54aecc0eb29a.fb80a0d9-dd99-4cfc-92c3-e937dd0dc5c9?mode=scale&q=90&w=300&h=300&background=%230078d7"> AppInstaller & MSIXbundle (WinGet) https://apps.microsoft.com/store/detail/9NBLGGH4NNS1
+<img width=20px src="https://store-images.s-microsoft.com/image/apps.33061.13510798887475206.34a5b1cc-aab2-4ec5-ac80-54aecc0eb29a.fb80a0d9-dd99-4cfc-92c3-e937dd0dc5c9?mode=scale&q=90&w=300&h=300&background=%230078d7"> AppInstaller & MSIXbundle (WinGet) <https://apps.microsoft.com/store/detail/9NBLGGH4NNS1>
 <br>
-<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Slightly%20smiling%20face/3D/slightly_smiling_face_3d.png"> Microsoft Emoji: https://github.com/microsoft/fluentui-emoji
+<img width=20px src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Slightly%20smiling%20face/3D/slightly_smiling_face_3d.png"> Microsoft Emoji: <https://github.com/microsoft/fluentui-emoji>
 <br>
-https://github.com/farag2/Utilities
+<https://github.com/farag2/Utilities>
 
 [HACK: Password Brute Force](https://github.com/InfosecMatter/Minimalistic-offensive-security-tools)
 
@@ -33,99 +33,96 @@ https://github.com/farag2/Utilities
 
 [Defender Control](https://www.sordum.org/files/downloads.php?st-defender-control)
 <br>
-https://github.com/swagkarna/Defeat-Defender-V1.2
+<https://github.com/swagkarna/Defeat-Defender-V1.2>
 <br>
-https://github.com/AndyFul/ConfigureDefender
+<https://github.com/AndyFul/ConfigureDefender>
 <br>
-https://github.com/simeononsecurity/Windows-Defender-Hardening
+<https://github.com/simeononsecurity/Windows-Defender-Hardening>
 <br>
-https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening
+<https://github.com/simeononsecurity/Windows-Defender-Application-Control-Hardening>
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Windows Update</h3>
 
-https://github.com/DavidXanatos/wumgr
+<https://github.com/DavidXanatos/wumgr>
 <br>
-https://github.com/WereDev/Wu10Man
+<https://github.com/WereDev/Wu10Man>
 
 <h3 align="center"><img width=25px src="https://site-iota-coral.vercel.app/icon/store.png"> Microsoft Store Apps</h3>
 
-https://github.com/Digressive/Remove-MS-Store-Apps
+<https://github.com/Digressive/Remove-MS-Store-Apps>
 <br>
-https://github.com/Sycnex/Windows10Debloater
+<https://github.com/Sycnex/Windows10Debloater>
 <br>
-https://github.com/Fs00/Win10BloatRemover
+<https://github.com/Fs00/Win10BloatRemover>
 <br>
-https://github.com/equk/windows
+<https://github.com/equk/windows>
 <br>
-https://github.com/r33int/Windows10-Postinstall
+<https://github.com/r33int/Windows10-Postinstall>
 <br>
-https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat
+<https://github.com/simeononsecurity/Windows-Optimize-Harden-Debloat>
 <br>
-https://github.com/simeononsecurity/Windows-Optimize-Debloat
+<https://github.com/simeononsecurity/Windows-Optimize-Debloat>
 <br>
-https://github.com/ChrisTitusTech/winutil
-
+<https://github.com/ChrisTitusTech/winutil>
 
 <h3 align="center">🛠 Tweaks (Win11)</h3>
 
-Custom Context Menu: https://github.com/ikas-mc/ContextMenuForWindows11
+Custom Context Menu: <https://github.com/ikas-mc/ContextMenuForWindows11>
 <br>
-Windows Fixer: https://github.com/99natmar99/Windows-11-Fixer
+Windows Fixer: <https://github.com/99natmar99/Windows-11-Fixer>
 <br>
-Old Start Menu: https://github.com/bbmaster123/10SM
+Old Start Menu: <https://github.com/bbmaster123/10SM>
 <br>
-Explorer Patcher (Old TaskBar): https://github.com/valinet/ExplorerPatcher
+Explorer Patcher (Old TaskBar): <https://github.com/valinet/ExplorerPatcher>
 <br>
-https://github.com/undergroundwires/privacy.sexy
+<https://github.com/undergroundwires/privacy.sexy>
 <br>
-https://github.com/mikeroyal/Windows-11-Guide
+<https://github.com/mikeroyal/Windows-11-Guide>
 <br>
-https://github.com/xanderfrangos/twinkle-tray
+<https://github.com/xanderfrangos/twinkle-tray>
 <br>
-Manager context menu: https://nilesoft.org
+Manager context menu: <https://nilesoft.org>
 <br>
 <br>
 ☠ [OUTDATED: Drag And Drop To Taskbar Fix](https://github.com/HerMajestyDrMona/Windows11DragAndDropToTaskbarFix)
 <br>
-☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator) 
-
+☠ [OUTDATED: Windows Thumbnail Generator Folder](https://github.com/hahagu/WindowsThumbnailGenerator)
 
 <h3 align="center"><img width=20px src="https://cdn-icons-png.flaticon.com/128/7425/7425907.png"> Personalization</h3>
 
-
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/awesome-windows11/site/main/icon/moon.png"> Set Dark Theme</b></summary>
-  
+
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v AppsUseLightTheme /t REG_DWORD /d 0 /f
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v SystemUsesLightTheme /t REG_DWORD /d 0 /f
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize" /v EnableTransparency /t REG_DWORD /d 1 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://steamuserimages-a.akamaihd.net/ugc/1809887800478745061/3ECDD5E87CF66532103B2A6991728155ACFEF2F8/?imw=512&amp;imh=367&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"> Disable Change Wallpaper</b></summary>
-  
+
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop" /v NoChangingWallPaper /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Policies\ActiveDesktop" /v NoChangingWallPaper /t REG_DWORD /d 1 /f
   pause
   ```
-  
+
   [Windows 11 обои скачать](https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/wallpaper/)
 
   Стандартно обои хранятся по пути:
-	
+
   ```
   C:\Windows\Web
   ```
-	
-  ![image](https://user-images.githubusercontent.com/86190960/122684534-8785cc80-d20e-11eb-850b-84054ad55fd3.png)
 
+  ![image](https://user-images.githubusercontent.com/86190960/122684534-8785cc80-d20e-11eb-850b-84054ad55fd3.png)
 
 </details>
 
 <details><summary><b><img width=20px src="https://www.xda-developers.com/files/2021/06/Windows-11_Wallpaper_img100-1024x576.jpg"> Disable LockScreen Spotlight</b></summary>
-  
+
   ```powershell
   reg add "HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\CloudContent" /v DisableWindowsSpotlightWindowsWelcomeExperience /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Personalization" /v NoChangingLockScreen /t REG_DWORD /d 0 /f
@@ -140,10 +137,11 @@ Manager context menu: https://nilesoft.org
   reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v "RotatingLockScreenOverlayEnabled" /t REG_DWORD /d 0 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Clean Explorer</b></summary>
-  
+
   Force File Explorer to open to This PC instead of Quick Access
 
   ```powershell
@@ -176,15 +174,17 @@ Manager context menu: https://nilesoft.org
   start explorer.exe
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://raw.githubusercontent.com/awesome-windows11/site/main/clean.png"> Clean Taskbar</b></summary>
-  
+
   Edit Taskbar:
+
   ```cmd
   %UserProfile%\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar
   ```
-  
+
   ```powershell
   echo "Disable Meet Now"
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v HideSCAMeetNow /t REG_DWORD /d 1 /f
@@ -200,24 +200,28 @@ Manager context menu: https://nilesoft.org
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Feeds" /v ShellFeedsTaskbarViewMode /t REG_DWORD /d 2 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://filedn.eu/lFS6h5cBEsru02lgr5VwkTJ/Windows%2011%20Files/icons/shell32_16826.ico"> Clean Settings</b></summary>
-  
+
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer" /v AllowOnlineTips /t REG_DWORD /d 0 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/start.png"></img> Edit StartMenu</b></summary>
 
 StartMenu Global:
+
   ```cmd
   C:\ProgramData\Microsoft\Windows\Start Menu\Programs
   ```
 
 StartMenu Local:
+
   ```cmd
   %UserProfile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
   ```
@@ -234,12 +238,13 @@ StartMenu Local:
 </details>
 
 <details><summary><b><img width=20px src="https://cdn-icons-png.flaticon.com/512/1545/1545241.png"> Adding App to the Context Menu</b></summary>
-  
+
   ```powershell
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode" /ve /d "&VScode" /f
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\VScode\command" /ve /d "D:\Apps\VSCode\code.exe" /f
   pause
   ```
+
 </details>
 
 <details><summary><b>🎨 Icons</b></summary>
@@ -255,49 +260,58 @@ StartMenu Local:
 <h3 align="center">🛠 Apps</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/check.png"></img> Remove and Disable Windows PC Health Check</b></summary>
-  
-  
+
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PCHC" /v PreviousUninstall /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PCHealthCheck" /v installed /t REG_DWORD /d 1 /f
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Restore Microsoft Store Apps</b></summary>
-  
+
   **WindowsStore**
+
   ```powershell
   Get-AppXPackage *WindowsStore* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
+
   OR
+
   ```powershell
   wsreset.exe -i
   ```
 
   **AppInstaller (winget)**
+
   ```powershell
   Get-AppXPackage *AppInstaller* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 
   **WindowsTerminal**
+
   ```powershell
   Get-AppXPackage *WindowsTerminal* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 
   **Notepad**
+
   ```powershell
   Get-AppXPackage *Notepad* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
 
   **Gadgets**
+
   ```powershell
   Get-AppXPackage *Windows.Client.WebExperience* -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($_.InstallLocation)\AppXManifest.xml”}
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove Microsoft Store Apps</b></summary>
-  
+
   **WindowsPhone**
+
   ```powershell
   Get-AppxPackage *YourPhone* | Remove-AppxPackage
   Get-AppxPackage -allusers *YourPhone* | Remove-AppxPackage
@@ -305,6 +319,7 @@ StartMenu Local:
   ```
 
   **AppInstaller (winget)**
+
   ```powershell
   Get-AppxPackage *AppInstaller* | Remove-AppxPackage
   Get-AppxPackage -allusers *AppInstaller* | Remove-AppxPackage
@@ -312,6 +327,7 @@ StartMenu Local:
   ```
 
   **WindowsTerminal**
+
   ```powershell
   Get-AppxPackage *WindowsTerminal* | Remove-AppxPackage
   Get-AppxPackage -allusers *WindowsTerminal* | Remove-AppxPackage
@@ -319,6 +335,7 @@ StartMenu Local:
   ```
 
   **Notepad**
+
   ```powershell
   Get-AppxPackage *Notepad* | Remove-AppxPackage
   Get-AppxPackage -allusers *Notepad* | Remove-AppxPackage
@@ -326,26 +343,29 @@ StartMenu Local:
   ```
 
   **Gadgets**
+
   ```powershell
   Get-AppxPackage *Windows.Client.WebExperience* | Remove-AppxPackage
   Get-AppxPackage -allusers *Windows.Client.WebExperience* | Remove-AppxPackage
   Get-AppxProvisionedPackage –online | where-object {$_.packagename –like "*Windows.Client.WebExperience*"} | Remove-AppxProvisionedPackage –online
   ```
+
 </details>
 
-
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL Microsoft Store Apps (NOT Microsoft Store)</b></summary>
-  
+
   ```powershell
   Get-AppxPackage -AllUsers | where-object {$_.name –notlike "*store*"} | Remove-AppxPackage
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Remove ALL Microsoft Store Apps</b></summary>
-  
+
   ```powershell
   Get-AppxPackage | Remove-AppxPackage
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Remove Microsoft Edge</a></b></summary>
@@ -357,11 +377,12 @@ StartMenu Local:
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer\DisallowRun" /v "1" /d "msedge.exe" /f
   ```
+
   > **Warning**
   > <br>
   > **DANGEROUS: THE TWEAK WILL BREAK NEW UPDATES AND FEATURE INSTALLATIONS!**
 
-  https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat
+  <https://github.com/awesome-windows11/windows11/blob/main/remove_edge.bat>
 
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
   ![image](https://user-images.githubusercontent.com/86190960/149354515-9eda8fc4-9b4e-4d3c-ba5f-5e42e62ef562.png)
@@ -369,51 +390,50 @@ StartMenu Local:
 </details>
 
 <details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></img> VsCode Default Editor</a></b></summary>
-  
+
   Сделать VScode Portable редактором по умолчанию
   <br>
   > **Warning**
   > <br>
   > **Смените путь к редактору на свой!** (по умолчанию `E:\VScode`)
-  
+
   ![image](https://user-images.githubusercontent.com/87380272/183214790-4ed90003-a692-438f-b152-210a45fa2bd6.png)
-  
+
   ```powershell
   # "Default Path: E:\VSCode"
   # "https://medium.com/@fawwazyusran/create-a-portable-ide-with-visual-studio-code-fb0c6bc198ef"
-  
+
   reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /ve /d "Edit with VSCode" /f
   reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode" /v Icon /d "E:\VSCode\Code.exe,0" /f
   reg add "HKEY_CLASSES_ROOT\*\shell\Custom\shell\VsCode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%1\" /f
-  
+
   # "This will make it appear when you right click ON a folder"
   # "The "Icon" line can be removed if you don't want the icon to appear"
-  
+
   reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /ve /d "Open Folder as VS Code Project" /f
   reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "E:\VSCode\Code.exe,0" /f
   reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%1\" /f
-  
+
   # "This will make it appear when you right click INSIDE a folder"
   # "The Icon line can be removed if you don't want the icon to appear"
-  
+
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode" /ve /d "Open Folder in VS Code Project" /f
   reg add "HKEY_CLASSES_ROOT\Directory\shell\vscode" /v Icon /d "E:\VSCode\Code.exe,0" /f
   reg add "HKEY_CLASSES_ROOT\Directory\Background\shell\vscode\command" /ve /d "\"E:\VSCode\Code.exe\" "\"%V\" /f
   ```
-  
-</details>
 
+</details>
 
 <h3 align="center">📜 Policies</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/defender.png"> Disable Windows Defender</b></summary>
 
-  Source: https://admx.help/HKLM/Software/Policies
-  
+  Source: <https://admx.help/HKLM/Software/Policies>
+
   > **Warning**
   > <br>
   > **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
-  
+
   ```powershell
   gsudo -s powershell.exe
   ```
@@ -450,7 +470,9 @@ StartMenu Local:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender" /v DisableAntiVirus /t REG_DWORD /d 1 /f
   pause
   ```
+
   Optional settings:
+
   ```powershell
   # Windows Defender Advanced Threat Protection
   sc config WinDefend start=disabled >nul && net stop WinDefend >nul
@@ -465,19 +487,20 @@ StartMenu Local:
   # Служба которая сканирует файлы и убивает HDD, само тело службы защитника
   reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WinDefend" /v Start /t REG_DWORD /d 4 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection" /v DisableRealtimeMonitoring /t REG_DWORD /d 1 /f
-  
-  reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v DontOfferThroughWUA /t REG_DWORD /d 1 /f 
+
+  reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v DontOfferThroughWUA /t REG_DWORD /d 1 /f
   reg add "HKLM\SOFTWARE\Policies\Microsoft\MRT" /v DontReportInfectionInformation /t REG_DWORD /d 1 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/update.png"></img> Disable Windows Update</b></summary>
-  
+
   > **Warning**
   > <br>
   > **Установите перед использованием [gsudo](https://github.com/gerardog/gsudo/releases/download/v1.3.0/gsudoSetup.msi)!**
-  
+
   ```powershell
   # "Disable OS Upgrade"
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate" /v DisableOSUpgrade /t REG_DWORD /d 1 /f
@@ -495,6 +518,7 @@ StartMenu Local:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\DriverSearching" /v SearchOrderConfig /t REG_DWORD /d 0 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/store.png"></img> Disable Apps Microsoft Store AutoUpdate and Force Install</b></summary>
@@ -512,8 +536,8 @@ StartMenu Local:
   reg add "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\ContentDeliveryManager" /v PreInstalledAppsEnabled /t REG_DWORD /d 0 /f
   pause
   ```
-</details>
 
+</details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/cortana.png"></img> Disable Cortana</b></summary>
 
@@ -530,11 +554,11 @@ StartMenu Local:
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search" /v CortanaConsent /t REG_DWORD /d 0 /f
   pause
   ```
+
 </details>
 
-
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/edge.png"></img> Microsoft Edge Lite (NOT Sync Microsoft Account)</b></summary>
-  
+
   ```powershell
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v SyncDisabled /t REG_DWORD /d 1 /f
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge" /v BrowserSignin /t REG_DWORD /d 0 /f
@@ -554,25 +578,27 @@ StartMenu Local:
   reg add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft" /v DoNotUpdateToEdgeWithChromium /t REG_DWORD /d 1 /f
   pause
   ```
+
 </details>
 
 <details><summary><b><img width=20px src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Chrome-icon.png"> Chrome Lite (NOT Security, etc.)</b></summary>
-  
-  https://github.com/awesome-windows11/chrome
+
+  <https://github.com/awesome-windows11/chrome>
 </details>
 
 <details><summary><b><img width=20px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1200px-Firefox_logo%2C_2019.svg.png"> Firefox Lite (NOT Sync Account, Pocket, etc.)</b></summary>
-  
-  https://github.com/awesome-windows11/firefox#-policiesjson
+
+  <https://github.com/awesome-windows11/firefox#-policiesjson>
 </details>
 
 <h3 align="center"> <img width=25px src="https://i.ibb.co/5KpSCNv/win11.png"> Win11</h3>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/explorer.png"> Switch Explorer (Restore The Ribbon)</b></summary>
-  
+
   ![image](https://user-images.githubusercontent.com/87380272/184669919-f84bccc8-aa31-4f3a-8bed-98230aa8fef0.png)
 
   **New Explorer (Win11)**
+
   ```powershell
   reg delete "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}" /f
   taskkill /F /IM explorer.exe
@@ -580,6 +606,7 @@ StartMenu Local:
   ```
 
   **Old Explorer (Win10)**
+
   ```powershell
   reg add "HKCU\Software\Classes\CLSID\{d93ed569-3b3e-4bff-8355-3c44f6a52bb5}\InprocServer32" /f /ve
   taskkill /F /IM explorer.exe
@@ -589,11 +616,12 @@ StartMenu Local:
 </details>
 
 <details><summary><b><img width=20px src="https://site-iota-coral.vercel.app/icon/context.png"> Switch Context Menu (New, old)</b></summary>
-  
+
   ![image](https://user-images.githubusercontent.com/87380272/184685122-69e70453-acc8-469d-88ec-3f525e085d97.png)
   ![image](https://user-images.githubusercontent.com/86190960/124923114-d26f5480-e002-11eb-8935-ea1d777d8425.png)
 
   **New Menu (Win11)**
+
   ```powershell
   reg delete "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}" /f
   taskkill /F /IM explorer.exe
@@ -601,6 +629,7 @@ StartMenu Local:
   ```
 
   **Old menu (Win10)**
+
   ```powershell
   reg add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
   taskkill /F /IM explorer.exe
@@ -612,13 +641,13 @@ StartMenu Local:
 <details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/6585/6585361.png"> TaskBar Size (Small, medium, big)</b></summary>
 
   ![image](https://user-images.githubusercontent.com/86190960/122673593-bfbee800-d1d9-11eb-8af7-aece6bea23d7.png)![image](https://user-images.githubusercontent.com/87380272/184697771-360498b3-207d-4873-a91e-139d5928da91.png)
-  
+
   **Small TaskBar**
 
   ```powershell
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSi /t REG_DWORD /d 0 /f
   taskkill /F /IM explorer.exe
-  start explorer.exe  
+  start explorer.exe
   ```
 
   **Medium TaskBar**
@@ -626,16 +655,17 @@ StartMenu Local:
   ```powershell
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSi /t REG_DWORD /d 1 /f
   taskkill /F /IM explorer.exe
-  start explorer.exe  
+  start explorer.exe
   ```
 
-  ### Big TaskBar
+### Big TaskBar
 
   ```powershell
   reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced" /v TaskbarSi /t REG_DWORD /d 2 /f
   taskkill /F /IM explorer.exe
-  start explorer.exe  
+  start explorer.exe
   ```
+
 </details>
 
 <details><summary><b> <img width=20px src="https://cdn-icons-png.flaticon.com/512/6585/6585361.png"> TaskBar Layout (Top, bottom)</b></summary>
@@ -675,9 +705,8 @@ StartMenu Local:
   ```powershell
   reg add "HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\StuckRects3" /v Settings /t REG_BINARY /d 30000000feffffff0200000002000000300000002000000000000000c203000080070000e20300006000000001000000 /f
   ```
+
 </details>
-
-
 
 <h1 align="center">Tweaks</h1>
 
@@ -691,31 +720,39 @@ StartMenu Local:
 # Как закрепить UWP на рабочий стол?
 shell:AppsFolder
 ```
+
 ```powershell
 # Посмотреть все приложения UWP
 Get-AppxPackage –AllUsers | Select Name, PackageFullName
 ```
+
 ```powershell
 # Полная команда, для подробного анализа
 Get-AppxPackage –AllUsers
 ```
+
 <img width="40%" src="https://user-images.githubusercontent.com/86190960/125692295-e047e2fd-1fc8-414f-860c-4e12deec2bc3.png"></img><img width="40%" src="https://user-images.githubusercontent.com/86190960/125692307-e8b3f2d6-55c7-48c5-bb2e-c642afeb20bb.png"></img>
 
 ## Как исправить кракозябры?
+
 <a href="https://user-images.githubusercontent.com/86190960/122917450-b57e2480-d366-11eb-9e2b-96925e556b59.png"><img src="https://i.ibb.co/DWHgjcw/image.png" alt="image" border="0"></a>
 
 Включите русский язык по умолчанию в Параметры -> "Time&Language" -> "Language" -> "Administrative language settings" -> "Язык программ, не поддерживающих Юникод" -> "Изменить язык системы..." -> "Russia"
 
-<a href="https://user-images.githubusercontent.com/86190960/122917560-d5ade380-d366-11eb-80fd-be4a6f7c57f3.png"><img src="https://i.ibb.co/NC6vGdt/image.png" alt="image" border="0"></a> 
+<a href="https://user-images.githubusercontent.com/86190960/122917560-d5ade380-d366-11eb-80fd-be4a6f7c57f3.png"><img src="https://i.ibb.co/NC6vGdt/image.png" alt="image" border="0"></a>
 <a href="https://user-images.githubusercontent.com/86190960/122917570-d8103d80-d366-11eb-9164-a6fbbf415a90.png"><img src="https://i.ibb.co/5knF8qh/image.png" alt="image" border="0"></a>
 <a href="https://user-images.githubusercontent.com/86190960/122917584-db0b2e00-d366-11eb-8793-96259bac5965.png"><img src="https://i.ibb.co/mbY4RHH/image.png" alt="image" border="0"></a>
 
 ## Как посмотреть последние файлы открытые на ПК?
+
 ```
 %UserProfile%\AppData\Roaming\Microsoft\Windows\Recent
 ```
+
 ## Как включить режим бога панель управления (GodMode?)
+
 Создайте папку с именем:
+
 ```
 Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 ```
@@ -723,15 +760,16 @@ Settings.{ED7BA470-8E54-465E-825C-99712043E01C}
 <h1 align="center">🔗 Links</h1>
 
 Реестр проводника:
-- http://www.rusdoc.ru/material/os/win/reestr.shtml
-- https://ss64.com/nt/syntax-reghacks.html
-- http://centaz.narod.ru/winwork2.html
+
+- <http://www.rusdoc.ru/material/os/win/reestr.shtml>
+- <https://ss64.com/nt/syntax-reghacks.html>
+- <http://centaz.narod.ru/winwork2.html>
 
 Памятка по командной строке (cmd.exe):
-- https://ab57.ru/cmdlist.html
-- https://renenyffenegger.ch/notes/Windows
-- https://admx.help
 
+- <https://ab57.ru/cmdlist.html>
+- <https://renenyffenegger.ch/notes/Windows>
+- <https://admx.help>
 
 <h1 align="center">Stats</h1>
 
